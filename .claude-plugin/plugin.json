@@ -1,0 +1,6 @@
+{
+  "name": "game-dev",
+  "version": "0.1.0",
+  "description": "Build web game UI and write stable tests for game rules, frontends, API contracts, and supporting services.",
+  "keywords": ["game-development", "web-game", "ui", "testing", "skills"]
+}

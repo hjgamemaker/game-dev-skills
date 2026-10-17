@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Test Dev"
+  short_description: "Write stable tests for game rules, UI, and services"
+  default_prompt: "Use $game-test-dev to write focused regression tests with synthetic fixtures and stable assertions at the owning test layer."

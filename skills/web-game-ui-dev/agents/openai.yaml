@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Game UI Dev"
+  short_description: "Build game UI with clear layout and state ownership"
+  default_prompt: "Use $web-game-ui-dev to implement or improve this game's UI while preserving gameplay, layout, and presentation ownership."

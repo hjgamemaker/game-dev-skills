@@ -1,0 +1,12 @@
+{
+  "name": "game-dev-skills",
+  "owner": { "name": "game-dev-skills" },
+  "plugins": [
+    {
+      "name": "game-dev",
+      "source": "./",
+      "description": "Portable skills for game development",
+      "version": "0.1.0"
+    }
+  ]
+}
